@@ -10,3 +10,21 @@ header {
     margin-top: 80px;
     margin-left: 20px;
 }
+
+/* body */
+
+.blue text {
+    text-decoration-color: aqua;
+}
+
+.head {
+    background-color: aqua;
+}
+
+.blueline {
+    background-color: rgb(26, 201, 143);
+}
+
+.evidenziato {
+    background-color: yellow;
+}
