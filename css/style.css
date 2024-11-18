@@ -13,8 +13,12 @@ header {
 
 /* body */
 
-.blue text {
-    text-decoration-color: aqua;
+.graytext {
+    color: gray;
+}
+
+.bluetext {
+    color: aqua;
 }
 
 .head {
